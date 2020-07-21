@@ -24,6 +24,12 @@ Now you are in a Python virtual environment.You can deactivate using:
 open terminal and type
 <pre>git clone  https://github.com/art3mis69/Flask-Task-Master.git</pre><br>
 
+## Flask-app
+Consists of Web Interface,where you can 
+* Add Task
+* Update Task
+* Delete Task
+
 ## The development server
 run the following commands to run the app on development server:
 <pre>python app.py</pre><br>
