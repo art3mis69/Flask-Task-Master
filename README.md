@@ -8,13 +8,13 @@
 ## Prerequisites
 <pre>python== 3.5 or up and flask==1.1.2</pre>
 ## Addind Virtual Environment
-<pre>open terminal and type</pre>
+open terminal and type
 <code>pip install virtualenv</code>
-<pre>Create a virtual environment now</pre><br>
+Create a virtual environment now
 <code>virtualenv virtualenv_name</code>
-<pre>After this command, a folder named virtualenv_name will be created. You can name anything to it.</pre><br>
-<pre>Now at last we just need to activate it, using command</pre><br>
-<pre>For Mac/ Linux</pre><br>
+After this command, a folder named virtualenv_name will be created. You can name anything to it.
+Now at last we just need to activate it, using command
+For Mac/ Linux
 <code>source virtualenv_name/bin/activate</code>
 <pre>to activate virtualenv on Windows, activate script is in the Scripts folder :</pre><br>
 <code>virtualenv_name\Scripts\activate.bat</code>
