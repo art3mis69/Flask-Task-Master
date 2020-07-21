@@ -8,7 +8,7 @@
 ## Prerequisites
 <pre>python== 3.5 or up and flask==1.1.2</pre>
 ## Addind Virtual Environment
-<pre>open terminal and type</pre><br>
+<pre>open terminal and type</pre>
 <code>pip install virtualenv</code>
 <pre>Create a virtual environment now</pre><br>
 <code>virtualenv virtualenv_name</code>
@@ -26,5 +26,5 @@
 
 ## The development server
 run the following commands to run the app on development server:
-<code>python app.py</code><br>
+<pre>python app.py</pre><br>
 Now, open a Web browser and go to local server on your local domain – e.g., http://127.0.0.1:5000/ .
