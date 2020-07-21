@@ -8,21 +8,21 @@
 ## Prerequisites
 <pre>python== 3.5 or up and flask==1.1.2</pre>
 ## Addind Virtual Environment
-open terminal and type
+open terminal and type:
 <pre>pip install virtualenv</pre><br>
-Create a virtual environment now
+Create a virtual environment now:
 <pre>virtualenv virtualenv_name</pre><br>
 After this command, a folder named virtualenv_name will be created. You can name anything to it.
 Now at last we just need to activate it, using command
-For Mac/ Linux
+For Mac/ Linux:
 <pre>source virtualenv_name/bin/activate</pre><br>
-<pre>to activate virtualenv on Windows, activate script is in the Scripts folder :</pre><br>
-<code>virtualenv_name\Scripts\activate.bat</code>
-<pre>Now you are in a Python virtual environment.You can deactivate using</pre><br>
-<code>deactivate</code>
+to activate virtualenv on Windows, activate script is in the Scripts folder:
+<pre>virtualenv_name\Scripts\activate.bat</pre><br>
+Now you are in a Python virtual environment.You can deactivate using:
+<pre>deactivate</pre><br>
 ## Installing
-<pre>open terminal and type</pre><br>
-<code>git clone  https://github.com/art3mis69/Flask-Task-Master.git</code><br>
+open terminal and type
+<pre>git clone  https://github.com/art3mis69/Flask-Task-Master.git</pre><br>
 
 ## The development server
 run the following commands to run the app on development server:
