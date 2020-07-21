@@ -7,7 +7,7 @@
 * Flask https://flask.palletsprojects.com/en/1.1.x/
 ## Prerequisites
 <pre>python== 3.5 or up and flask==1.1.2</pre>
-## Addind Virtual Environment
+## Adding Virtual Environment
 open terminal and type:
 <pre>pip install virtualenv</pre><br>
 Create a virtual environment now:
